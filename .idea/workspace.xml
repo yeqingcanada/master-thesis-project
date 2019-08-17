@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e624eaa-77cc-4970-aea5-ffdf86120cde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../comp6521/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/0.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/3.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/4.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/5.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/6.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/7.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/8.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/9.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/bin/dbMiniProj1/BlockManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/bin/dbMiniProj1/FileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/bin/dbMiniProj1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/bin/dbMiniProj1/MemoManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/bin/dbMiniProj1/Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/newBigfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/range" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/sorted" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/src/dbMiniProj1/BlockManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/src/dbMiniProj1/FileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/src/dbMiniProj1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/src/dbMiniProj1/MemoManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6521/src/dbMiniProj1/Tuple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/DrawChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/NetworkBo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/PubBo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/ScheduleBo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/StationBo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/bo/TrainBo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/po/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/po/Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/po/Station.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/po/Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/vo/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/vo/PubData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/vo/TimeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/bin/com/Mia/vo/TimeStatu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/data/Capacity.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/data/Network.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/data/Schedule.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/data/Train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/lib/jcommon-1.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/lib/jfreechart-1.0.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/DrawChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/NetworkBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/PubBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/ScheduleBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/StationBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/bo/TrainBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/po/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/po/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/po/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/po/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/vo/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/vo/PubData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/vo/TimeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comp6651/src/com/Mia/vo/TimeStatu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/0.1_61_to_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/0.2_makedb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/10_xdet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/11_hmmer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/12_tportHMM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/1_blast_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/2_ClustalW.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/3_Clustal_Omega.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/4_MAFFT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/5_t_coffee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/6_muscle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/7_TM_Coffee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/8_speer_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/9_groupsim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/CountNumberBlastReturn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/dataset_1.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/dataset_2_test.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/dataset_2_training.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/groupsim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/latex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/parameter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/readResult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/speer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../master-thesis/xdet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Boostrap-installation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/DOM/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/DOM/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/DOM/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/dicee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/images/dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Dicee Challenge - Starting Files/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/crash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/kick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/snare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/tom1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/tom2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/tom3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/images/tom4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/crash.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/kick-bass.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/snare.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/tom-1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/tom-2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/tom-3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/sounds/tom-4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Drum Kit Starting Files/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/Debugging Problem 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/lecture_21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/my_contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/qing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/HTML-Personal Site/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/sounds/blue.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/sounds/green.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/sounds/red.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/sounds/wrong.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/sounds/yellow.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/Simon Game Challenge Starting Files/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/computer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/front-end-web-developer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/mountain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/python-java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/images/qingqing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/jQuery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/jQuery/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/jQuery/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/test/css/boxes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/test/test.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1384711018">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CountNumberBlastReturn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1679">
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parameter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-116">
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="127" />
+    <option name="y" value="23" />
+    <option name="width" value="1192" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="master-thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-thesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e624eaa-77cc-4970-aea5-ffdf86120cde" name="Default Changelist" comment="" />
+      <created>1564540077776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564540077776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="127" y="23" width="1192" height="784" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24935952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1679">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountNumberBlastReturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
